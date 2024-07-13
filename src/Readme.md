@@ -3,7 +3,7 @@ Open a terminal and type:
 <code>npm create-react-app any-name
 cd any-name
 rm -rf src
-git clone https://github.com/LightY-01/Web-Dev/new/main/src
+git clone https://github.com/LightY-01/Web-Dev/tree/main/src
 cd src
 rm Readme.md
 cd ..
